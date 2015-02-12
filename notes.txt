@@ -1,0 +1,12 @@
+loc_pos > index
+      dist_prev = -(loc_pos - index)
+
+index >= loc_pos
+      (sz - loc_pos) + index
+
+      whichever ones Absolute Value is less is the one to choose
+                                    abs() //probably in cmath
+
+
+
+
